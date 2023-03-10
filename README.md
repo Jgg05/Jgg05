@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://media.tenor.com/BnVhw9rLp3cAAAAd/wildcard-fortnite.gif)
