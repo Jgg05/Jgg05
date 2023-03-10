@@ -13,5 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me by my discord: Jonas. #8294
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like playing video games
-![Alt text](https://media.tenor.com/BnVhw9rLp3cAAAAd/wildcard-fortnite.gif "a title")
+
+![Alt text](https://media.tenor.com/BnVhw9rLp3cAAAAd/wildcard-fortnite.gif)
 
