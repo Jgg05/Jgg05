@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like playing video games
 
-![Alt text](https://media.tenor.com/BnVhw9rLp3cAAAAd/wildcard-fortnite.gif)
+[Alt text](https://media.tenor.com/BnVhw9rLp3cAAAAd/wildcard-fortnite.gif)
 
