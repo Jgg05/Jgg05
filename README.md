@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Jgg05/Jgg05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like playing video games
 ![Alt text](https://media.tenor.com/BnVhw9rLp3cAAAAd/wildcard-fortnite.gif "a title")
--->
+
