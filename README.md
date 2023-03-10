@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like playing video games
 
-[Alt text](https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif))
+[Alt text](https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif)
 
-[Alt text](https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif))
+[Alt text](https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif)
