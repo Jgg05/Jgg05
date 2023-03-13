@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on making usefull programs
 - 🤔 I’m looking for help with using Github
 - 💬 Ask me about anything
-- 📫 How to reach me by my discord: Jonas. #8294
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like playing video games
 
