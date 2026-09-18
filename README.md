@@ -1,1 +1,1 @@
-https://github-stats-extended.vercel.app/api?username=jgg05&show_icons=true&locale=en
+[![Jgg05's GitHub stats](https://github-stats-extended.vercel.app/api?username=Jgg05)](https://github.com/stats-organization/github-stats-extended)
